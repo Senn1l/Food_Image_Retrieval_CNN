@@ -1,6 +1,4 @@
--- Link download data
-
-LƯU Ý: đặt vào thư mục 'flask-keras-cnn-image-retrieval' của thư mục 'Source code'
+LƯU Ý: đặt vào thư mục 'cnn_feature_retrieval' của thư mục 'Source code'
 
 >> Ảnh gốc
 database_large: https://drive.google.com/drive/folders/1wRmzuJUM-UTwt9IH57DAjra02Edmrj9P?usp=sharing
