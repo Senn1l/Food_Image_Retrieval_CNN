@@ -14,7 +14,7 @@ This project implements a **Content-Based Image Retrieval (CBIR)** system for fo
 ## Dataset
 - Food11 (a smaller version of Food101).
 - Contains 11 classes, each with approximately 900 images.
-- Link: 
+- Link: https://www.kaggle.com/datasets/imbikramsaha/food11
 
 ## Evaluation
 - Similarity metric: Cosine Similarity.
